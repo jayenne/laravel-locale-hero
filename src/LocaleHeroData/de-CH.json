@@ -1,0 +1,18 @@
+{
+  "country_code": "CH",
+  "country_name": "Switzerland",
+  "country_name_local": "Schweiz",
+  "language_code": "de",
+  "language_name": "Swiss German",
+  "language_name": "Schweiz - Deutsch",
+  "date_numbers": "d.m.Y",
+  "date_numbers_full_capitals": "DD.MM.YYYY",
+  "date_words_without_day": "j F Y",
+  "date_words_with_day": "l j F Y",
+  "date_birthday": "j F",
+  "time_format": "H:i",
+  "emoji_flag": "🇩🇪",
+  "currency_code": "CHF",
+  "currency_name": "Swiss Franc",
+  "currency_name_local": "Schweizer Franken"
+}

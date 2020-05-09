@@ -1,0 +1,18 @@
+{
+  "country_code": "CA",
+  "country_name": "Canada",
+  "country_name_local": "Canada",
+  "language_code": "en",
+  "language_name": "English",
+  "language_name_local": "Canadian English",
+  "date_numbers": "m/d/Y",
+  "date_numbers_full_capitals": "MM/DD/YYYY",
+  "date_words_without_day": "F jS Y",
+  "date_words_with_day": "l F jS Y",
+  "date_birthday": "F jS",
+  "time_format": "h:i a",
+  "emoji_flag": "🇨🇦",
+  "currency_code": "CAD",
+  "currency_name": "Canadian Dollar",
+  "currency_name_local": "Canadian Dollar"
+}

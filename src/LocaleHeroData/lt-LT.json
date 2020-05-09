@@ -1,0 +1,18 @@
+{
+  "country_code": "LT",
+  "country_name": "Lithuania",
+  "country_name_local": "Lietuva",
+  "language_code": "lt",
+  "language_name": "Lithuanian",
+  "language_name": "lietuvių kalba",
+  "date_numbers": "Y-m-d",
+  "date_numbers_full_capitals": "YYYY-MM-DD",
+  "date_words_without_day": "Y\\m. F d\\d.",
+  "date_words_with_day": "Y\\m. F d\\d., l",
+  "date_birthday": "F j",
+  "time_format": "H:i",
+  "emoji_flag": "🇱🇹",
+  "currency_code": "EUR",
+  "currency_name": "Euro",
+  "currency_name_local": "Euras"
+}
