@@ -54,7 +54,7 @@
         },
         "laravel": {
             "providers": [
-                "Jayenne\\LaravelLocaleHero\\LaravelLocaleHeroServiceProvider"
+                "Jayenne\\LaravelLocaleHero\\LocaleHeroServiceProvider"
             ],
             "aliases": {
                 "LocaleHero": "Jayenne\\LaravelLocaleHero\\LocaleHeroFacade"
