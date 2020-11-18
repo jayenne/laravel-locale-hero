@@ -3,7 +3,7 @@ namespace Jayenne\LaravelLocaleHero\Controllers;
 
 use Illuminate\Routing\Controller;
 
-class LocaleSwitchController extends Controller
+class LocaleHeroSwitchController extends Controller
 {
     public function switch($locale_code)
     {
