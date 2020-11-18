@@ -4,7 +4,7 @@ namespace Jayenne\LaravelLocaleHero;
 
 use Illuminate\Support\ServiceProvider;
 
-class LocaleServiceProvider extends ServiceProvider
+class LocaleHeroServiceProvider extends ServiceProvider
 {
     /**
      * Perform post-registration booting of services.
@@ -31,7 +31,7 @@ class LocaleServiceProvider extends ServiceProvider
             ->middleware(config('locale-hero.lang_switcher_middleware'))
             ->get(
                 '/change_locale/{locale_code}',
-                'Jayenne\LaravelLocaleHero\Controllers\LocaleSwitchController@switch'
+                'Jayenne\LaravelLocaleHero\Controllers\LocaleHeroSwitchController@switch'
             )
             ->name('locale_hero.switch');
     }
